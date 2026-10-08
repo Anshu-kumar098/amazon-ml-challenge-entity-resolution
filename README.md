@@ -20,9 +20,9 @@ This repository contains my machine learning pipeline developed for the Amazon M
 >>
 1_preprocessing.ipynb  ──► (Cleaned Dataframes)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/1_preprocessing.ipynb)
 >>
-2_pair_creation.ipynb  ──► (Candidate Pairs & Feature Engineering)
+2_pair_creation.ipynb  ──► (Candidate Pairs & Feature Engineering)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/2_pair_creation.ipynb)
 >>
-3_model_training.ipynb ──► (XGBoost Classification & Final Output)
+3_model_training.ipynb ──► (XGBoost Classification & Final Output)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/3_model_training.ipynb)
 
 ##  Approach & Methodology
 1. **Data Preprocessing & Cleansing:** Handled missing values, standardized text formats, and optimized data types using **Polars** for high-speed dataframe operations.
