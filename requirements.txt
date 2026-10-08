@@ -1,0 +1,6 @@
+polars
+rapidfuzz
+scikit-learn
+xgboost
+numpy
+scipy
