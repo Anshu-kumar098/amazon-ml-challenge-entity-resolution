@@ -18,7 +18,7 @@ This repository contains my machine learning pipeline developed for the Amazon M
 ## Text-based flowchart
 [Raw TSV Data (Google Drive)]
 >>
-1_preprocessing.ipynb  ──► (Cleaned Dataframes)
+1_preprocessing.ipynb  ──► (Cleaned Dataframes)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/1_preprocessing.ipynb)
 >>
 2_pair_creation.ipynb  ──► (Candidate Pairs & Feature Engineering)
 >>
