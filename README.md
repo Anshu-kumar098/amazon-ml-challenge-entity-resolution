@@ -14,11 +14,11 @@ This repository contains my machine learning pipeline developed for the Amazon M
 * **Environment:** Google Colab
 ## Text-based flowchart
 [Raw TSV Data (Google Drive)]
-▼
+>>
 1_preprocessing.ipynb  ──► (Cleaned Dataframes)
-▼
+>>
 2_pair_creation.ipynb  ──► (Candidate Pairs & Feature Engineering)
-▼
+>>
 3_model_training.ipynb ──► (XGBoost Classification & Final Output)
 
 ##  Approach & Methodology
