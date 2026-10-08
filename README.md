@@ -20,7 +20,6 @@ This repository contains my machine learning pipeline developed for the Amazon M
 
 ## ⚙️ How to Run
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/Anshu-kumar098/amazon-ml-challenge-entity-resolution.git
-  cd amazon-ml-challenge-entity-resolution
-
+  ```bash
+git clone https://github.com/Anshu-kumar098/amazon-ml-challenge-entity-resolution.git
+cd amazon-ml-challenge-entity-resolution
