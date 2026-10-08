@@ -12,6 +12,15 @@ This repository contains my machine learning pipeline developed for the Amazon M
 * **String Similarity & Matching:** RapidFuzz
 * **Machine Learning:** XGBoost, Scikit-Learn
 * **Environment:** Google Colab
+  Text-based flowchart
+  text
+[Raw TSV Data (Google Drive)]
+▼
+1_preprocessing.ipynb  ──► (Cleaned Dataframes)
+▼
+2_pair_creation.ipynb  ──► (Candidate Pairs & Feature Engineering)
+▼
+3_model_training.ipynb ──► (XGBoost Classification & Final Output)
 
 ##  Approach & Methodology
 1. **Data Preprocessing & Cleansing:** Handled missing values, standardized text formats, and optimized data types using **Polars** for high-speed dataframe operations.
