@@ -1,4 +1,7 @@
 # Amazon ML Challenge - Entity Resolution Pipeline
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Polars](https://img.shields.io/badge/Polars-Engineered-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ##  Project Overview
 This repository contains my machine learning pipeline developed for the Amazon ML Challenge. The core objective was to perform automated **entity resolution (record linkage)** to match, clean, and unify product records efficiently at scale using advanced string similarity and gradient boosting.
@@ -8,7 +11,7 @@ This repository contains my machine learning pipeline developed for the Amazon M
 * **Data Manipulation:** Polars
 * **String Similarity & Matching:** RapidFuzz
 * **Machine Learning:** XGBoost, Scikit-Learn
-* **Environment:** Jupyter Notebooks
+* **Environment:** Google Colab
 
 ##  Approach & Methodology
 1. **Data Preprocessing & Cleansing:** Handled missing values, standardized text formats, and optimized data types using **Polars** for high-speed dataframe operations.
