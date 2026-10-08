@@ -2,10 +2,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Polars](https://img.shields.io/badge/Polars-Engineered-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/1_preprocessing.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/2_pair_creation.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anshu-kumar098/amazon-ml-challenge-entity-resolution/blob/main/3_model_training.ipynb)
-
 ##  Project Overview
 This repository contains my machine learning pipeline developed for the Amazon ML Challenge. The core objective was to perform automated **entity resolution (record linkage)** to match, clean, and unify product records efficiently at scale using advanced string similarity and gradient boosting.
 
